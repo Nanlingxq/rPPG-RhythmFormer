@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.pth
+*.pt
+*.ckpt
+*.npy
+*.npz
+*.mat
+/PreTrainedModels/
+/data/
+/datasets/
+/cache/
+/output/
+/checkpoints/
+/logs/
+/.codex/
